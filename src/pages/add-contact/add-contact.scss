@@ -1,0 +1,22 @@
+page-add-contact {
+
+	.form{
+		display: table;
+		width: 100%;
+		padding: 16px;
+		.item{
+			padding-left: 0;
+
+			ion-select{
+				max-width: 100%;
+				width: 100%;
+				padding-left: 8px;
+			}
+		}
+		button.add-contact{
+			width: 100%;
+			margin-top: 20px;
+		}
+	}
+
+}
